@@ -74,9 +74,8 @@ Pull requests are welcome where users of this program are allowed to contribute 
 
 For major changes, please open an issue first to discuss what you would like to change.
 ## Authors
-[josotieno](https://learn.zone01kisumu.ke/git/josotieno/)
+[JosephOKumu](https://github.com/JosephOkumu)
 
-[kada](https://learn.zone01kisumu.ke/git/kada/)
 
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
