@@ -1,4 +1,4 @@
-# Ascii-Art-Web
+# Stylize-Web-AsciiArt
 ## Description
 This program allows users to input text and select a banner format from a web interface. By clicking the "Convert to ASCII Art" button, the input text is transformed into an ASCII art graphical representation, which is then displayed on a new page. 
 ## Documentation
@@ -10,7 +10,7 @@ To run this program, download and install the latest version of Go from [here](h
 ### Usage
 1. Clone this repository on to the terminal by using the following command:
 ```bash
-git clone https://learn.zone01kisumu.ke/git/kada/ascii-art-web
+git clone https://github.com/JosephOkumu/Stylize-Web-AsciiArt
 ```
 2. Navigate into the ascii-art-web directory by using the command:
 ```bash
